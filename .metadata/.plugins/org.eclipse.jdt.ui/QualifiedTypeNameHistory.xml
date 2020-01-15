@@ -8,4 +8,5 @@
     <fullyQualifiedTypeName name="basico.solid.dependecy.problema.ProdutoRepository"/>
     <fullyQualifiedTypeName name="basico.solid.dependecy.problema.MySqlConnection"/>
     <fullyQualifiedTypeName name="basico.solid.dependecy.solucao.DbConnection"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
 </qualifiedTypeNameHistroy>

@@ -1,5 +1,0 @@
-package basico.solid.interfaces.solucao;
-
-public interface AvesVoam {
-
-}
