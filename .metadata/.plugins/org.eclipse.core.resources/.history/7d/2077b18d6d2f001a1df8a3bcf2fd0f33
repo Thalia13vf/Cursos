@@ -1,0 +1,5 @@
+package basico.solid.interfaces.problema;
+
+public class Pinguim implements Ave{
+
+}

@@ -1,0 +1,8 @@
+package basico.solid.open.solucao;
+
+public class DescontoLivroInfantil {
+	public double valorDescontoLivroInfantil() 
+	{
+		return 0.3;
+	}
+}

@@ -1,0 +1,8 @@
+package basico.solid.open.problema;
+
+public class ControladorDeDesconto {
+	public void adicionaDescontoInfantil(DescontoLivroInfantil) 
+	{
+		
+	}
+}

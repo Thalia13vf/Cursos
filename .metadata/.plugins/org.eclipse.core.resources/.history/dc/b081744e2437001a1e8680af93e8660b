@@ -1,0 +1,16 @@
+package basico.datas;
+
+import java.util.Date;
+
+public class ExDate {
+	public static void main(String[] args) {
+		Date novaData = new Date();
+		System.out.println(novaData);
+		//Retorna Tue Jan 14 20:08:00 BRT 2020
+		
+		Date data = new Date(System.currentTimeMillis());
+		System.out.println(data);
+		
+	}
+	
+}

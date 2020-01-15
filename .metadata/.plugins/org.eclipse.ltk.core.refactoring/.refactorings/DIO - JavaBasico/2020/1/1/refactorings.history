@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;DIO - JavaBasico/src/basico.equals&apos;&#x0D;&#x0A;- Original project: &apos;DIO - JavaBasico&apos;&#x0D;&#x0A;- Destination element: &apos;DIO - JavaBasico/src/basico.equals&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     basico.heranca.Veiculo.java&#x0D;&#x0A;     basico.heranca.Carro.java" description="Copy compilation units" destination="/src&lt;basico.equals" element1="/src&lt;basico.heranca{Veiculo.java" element2="/src&lt;basico.heranca{Carro.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1578093250497" units="2" version="1.0"/>
+</session>

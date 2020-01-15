@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="basico.equals.Carro"/>
+    <fullyQualifiedTypeName name="java.util.Objects"/>
+    <fullyQualifiedTypeName name="basico.solid.open.solucao.DescontoLivro"/>
+    <fullyQualifiedTypeName name="basico.solid.liskov.problema.Retangulo"/>
+    <fullyQualifiedTypeName name="basico.solid.interfaces.solucao.AvesVoam"/>
+    <fullyQualifiedTypeName name="basico.solid.dependecy.problema.ProdutoRepository"/>
+    <fullyQualifiedTypeName name="basico.solid.dependecy.problema.MySqlConnection"/>
+    <fullyQualifiedTypeName name="basico.solid.dependecy.solucao.DbConnection"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,10 @@
+package basico.datas.dates;
+
+import java.util.Date;
+
+public class ExercicioDate {
+	public static void main(String[] args) {
+		Date data = new Date(1785201211000L);
+		System.out.println(data);
+	}
+}
