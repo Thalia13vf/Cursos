@@ -1,0 +1,13 @@
+package basico.datas.localdate;
+
+import java.time.LocalDate;
+
+public class ExLocalDate2 {
+	public static void main(String[] args) {
+		LocalDate hoje = LocalDate.now();
+		LocalDate ontem = hoje.minusDays(2);
+		
+		System.out.println(hoje);
+		System.out.println(ontem);
+	}
+}

@@ -1,0 +1,16 @@
+package basico.datas.calendar;
+
+import java.util.Calendar;
+
+public class Exercicio {
+	public static void main(String[] args) {
+		Calendar dataDeVencimento =  Calendar.getInstance();
+		dataDeVencimento.add(Calendar.DATE, -2);
+		
+		System.out.println(dataDeVencimento.getTime());
+		System.out.println(dataDeVencimento.TUESDAY);
+		
+		
+		
+	}
+}

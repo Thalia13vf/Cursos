@@ -1,0 +1,18 @@
+package basico.datas.novaapi;
+
+import java.time.LocalTime;
+import java.time.format.DateTimeFormatter;
+
+public class ExDateTimeFormatada {
+	public static void main(String[] args) 
+	{
+		//hora formatada
+		LocalTime hora = LocalTime.now();
+		
+		DateTimeFormatter formatter = DateTimeFormatter.ofPattern("HH:mm:ss");
+		String text = hora.format(formatter);
+		hora = LocalTime.parse(text, formatter);
+		
+		System.out.println("Hora formatada: " + hora);
+	}
+}

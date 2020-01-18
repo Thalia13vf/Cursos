@@ -1,0 +1,13 @@
+package basico.datas.dateformat;
+
+import java.text.DateFormat;
+import java.util.Date;
+
+public class ExDateFormat {
+	public static void main(String[] args) {
+		
+		Date agora = new Date();
+		String data = DateFormat.getInstance().format(agora);
+		System.out.println(data);
+	}
+}
