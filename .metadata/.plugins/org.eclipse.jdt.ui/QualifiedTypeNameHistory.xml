@@ -9,4 +9,8 @@
     <fullyQualifiedTypeName name="basico.solid.dependecy.problema.MySqlConnection"/>
     <fullyQualifiedTypeName name="basico.solid.dependecy.solucao.DbConnection"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="javax.swing.text.DateFormatter"/>
+    <fullyQualifiedTypeName name="java.time.format.DateTimeFormatter"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
 </qualifiedTypeNameHistroy>

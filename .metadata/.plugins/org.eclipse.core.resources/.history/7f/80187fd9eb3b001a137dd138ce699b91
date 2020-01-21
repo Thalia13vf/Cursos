@@ -1,0 +1,5 @@
+package basico.exceptions;
+
+public class Principal {
+
+}
